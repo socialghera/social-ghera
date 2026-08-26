@@ -1,4 +1,4 @@
-# Social Ghera — Website
+# Social Ghera - Website
 
 A plain HTML/CSS website, 6 pages, no build tools, no dependencies except two free Google Fonts loaded from a CDN link. Works by just opening `index.html`, and works on GitHub Pages with zero setup.
 
