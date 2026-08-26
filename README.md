@@ -30,7 +30,7 @@ That link is your live website. Any time you edit a file and re-upload it (or co
 
 ## Things to check / customise before sharing the link
 
-- **Pricing** on `packages.html` is a starting point (₹15,000 / ₹32,000 / Custom) — update the real numbers once you've finalised them.
+- **Pricing** on `packages.html` is a starting point (₹20,000 / ₹35,000 / Custom) — update the real numbers once you've finalised them.
 - **Phone/WhatsApp number** and **email** are pulled from your existing contact details — double-check they're correct on `contact.html` and in the footer of every page.
 - If you want a **custom domain** (like `socialghera.in`) instead of the `github.io` link, GitHub Pages supports that too — happy to walk through that step whenever you're ready.
 - Every page currently repeats the same nav and footer HTML (since this is plain HTML, not a framework) — if you ask me to change something in the footer or nav later, it needs to be updated across all 6 files. Just tell me and I'll do it in one pass.
